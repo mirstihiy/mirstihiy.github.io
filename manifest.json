@@ -1,0 +1,21 @@
+{
+  "name": "Мир Стихий • MultiCraft",
+  "short_name": "Мир Стихий",
+  "description": "Официальный сайт MultiCraft сервера «Мир Стихий»",
+  "start_url": "https://mirstihiy.github.io",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#90ff90",
+  "icons": [
+    {
+      "src": "/cdn/logo/64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/cdn/logo/128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
+}
