@@ -1,0 +1,27 @@
+:root {
+  --DarkGreen: #006400;
+  --LimeGreen: #32CD32;
+  --MurCodaColor: #90FF90;
+  --DarkRed: #8B0000;
+  --Red: #FF0000;
+  --OrangeRed: #FF4500;
+  --Orange: #FFA500;
+  --Gold: #FFD700;
+  --Yellow: #FFFF00;
+  --Snow: #FFFAFA;
+  --Grey: #808080;
+  --LightGrey: #D3D3D3;
+  --DarkGrey: #A9A9A9;
+  --Fair: #FF4500;
+  --Water: #1E90FF;
+  --Earth: #C0C0C0;
+  --Air: #FFFAF0;
+  --Dark: #000000;
+  --Color: #0A0A0A;
+  --ThemeColor: #2E8B57;
+}
+
+body {
+  background-color: var(--Color);
+  font-family: Inter;
+}
